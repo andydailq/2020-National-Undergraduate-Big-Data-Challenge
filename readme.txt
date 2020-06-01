@@ -1,0 +1,1 @@
+The dataset analyzed was the HAM10000 skin lesions dataset from Harvard. Also downloadable from Kaggle.
